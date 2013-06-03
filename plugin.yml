@@ -1,0 +1,6 @@
+name: SkyRPG
+version: 0.1
+main: com.gmail.skyshayde.RPG
+commands:
+  class:
+  spellbook:
